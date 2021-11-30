@@ -1,6 +1,6 @@
-import { Header } from './components/header';
-import { Main } from './components/main';
-import { Footer } from './components/footer';
+import { Header } from './Pages/Nosotros/components/components/header';
+import { Main } from './Pages/Nosotros/components/components/main';
+import { Footer } from './Pages/Nosotros/components/components/footer';
 import './App.css';
 
 function App() {
